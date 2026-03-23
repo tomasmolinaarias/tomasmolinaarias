@@ -1,5 +1,9 @@
 <h1 align="left">Hi there 👋</h1>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=600&lines=Full+Stack+Developer;Backend+%7C+AI+%7C+Real-time+Systems;Always+building+and+learning" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍💻 I'm Victor Molina 🚀
@@ -25,8 +29,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
----
-
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -34,14 +36,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
-
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -50,10 +48,19 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,6 +78,14 @@
 
 - 🔹 **AI MVP – Renca Hackathon**  
   Automated validation system for forms using artificial intelligence  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
