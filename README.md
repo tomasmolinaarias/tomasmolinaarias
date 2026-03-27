@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomasmolinaarias&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasmolinaarias&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomasmolinaarias&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomasmolinaarias&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 ---
 
