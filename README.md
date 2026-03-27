@@ -1,8 +1,9 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=750&lines=Full+Stack+Developer;Backend+Engineer;Python+%7C+Django+%7C+FastAPI;TypeScript+%7C+React+%7C+Angular;Building+scalable+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=750&lines=Full+Stack+Developer;Python+%7C+Django+%7C+FastAPI;TypeScript+%7C+React+%7C+Angular;Building+modern+web+applications" />
 </p>
+
 ---
 
 ## 👨‍💻 I'm Victor Molina 🚀
